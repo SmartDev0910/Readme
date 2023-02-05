@@ -26,7 +26,7 @@
 - 🌱 I’m currently learning Python and Django
 - 💬 Ask me anything about flutter and dart
 - 🌏 You can find me in social that is mentioned in top
-- 📨 Or for fast way just send me a Mail in roryporter@gmail.com
+- 📨 Or for fast way just send me a Mail in roryporter0910@gmail.com
 - ⚡ Fun fact: I Love 🏀Basketball, and 🎮Dota 2
 
 
